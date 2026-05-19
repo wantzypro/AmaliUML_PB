@@ -1,0 +1,74 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="GWX1ZaGSu63zuF8L_chs">
+    <mxGraphModel dx="1665" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
+          <mxGeometry height="370" width="20" x="100" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" value="" vertex="1">
+          <mxGeometry height="370" width="50" x="280" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" value="" vertex="1">
+          <mxGeometry height="370" width="40" x="490" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-4" parent="bufTh3gSzwZ5uA7Yw4KA-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="120" width="10" x="14.5" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" value="" vertex="1">
+          <mxGeometry height="370" width="40" x="690" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-6" parent="bufTh3gSzwZ5uA7Yw4KA-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="15" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-7" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Halaman Pendaftaran Kelab" vertex="1">
+          <mxGeometry height="26" width="80" x="265" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-8" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Mengurus pendaftaran" vertex="1">
+          <mxGeometry height="26" width="80" x="470" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-9" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Pangkalan data kelab" vertex="1">
+          <mxGeometry height="26" width="80" x="670" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-10" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="bufTh3gSzwZ5uA7Yw4KA-2" value="Papar menu kelab">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="110" y="356" as="sourcePoint" />
+            <mxPoint x="190" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-11" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="bufTh3gSzwZ5uA7Yw4KA-4" value="Hantar permintaan pendaftaran">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="304.5" y="396" as="sourcePoint" />
+            <mxPoint x="509.5" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="bufTh3gSzwZ5uA7Yw4KA-6" value="Semak pendaftaran">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="514.5" y="436" as="sourcePoint" />
+            <mxPoint x="700" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-13" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="Status kelab">
+          <mxGeometry relative="1" x="0.023" y="-10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="710" y="476" as="sourcePoint" />
+            <mxPoint x="514.5" y="476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-14" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" target="bufTh3gSzwZ5uA7Yw4KA-2" value="Papar status">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="516" as="sourcePoint" />
+            <mxPoint x="410" y="506" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bufTh3gSzwZ5uA7Yw4KA-15" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" target="bufTh3gSzwZ5uA7Yw4KA-1" value="Pendaftaran berjaya">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="556" as="sourcePoint" />
+            <mxPoint x="220" y="556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
